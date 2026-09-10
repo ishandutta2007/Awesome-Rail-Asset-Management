@@ -75,7 +75,7 @@ The table below catalogs premier commercial SaaS and hosted platforms serving ra
 
 Open-source rail engineering encompasses CBM decision-support algorithms, linear referencing libraries, train dispatching simulations, and self-hosted CMMS backends.
 
-*Sorted in descending order by **GitHub Stars**.*
+*Sorted in descending order by **GitHub_Stars**.*
 
 1. **[`IBM/AssetOpsBench`](https://github.com/IBM/AssetOpsBench)** <a href="https://github.com/IBM/AssetOpsBench/stargazers"><img src="https://img.shields.io/github/stars/IBM/AssetOpsBench?style=social&color=white" alt="IBM/AssetOpsBench stars" /></a>  
    *Industry 4.0 benchmark and framework for building, orchestrating, and evaluating AI-driven predictive maintenance, asset degradation modeling, and operational decision-support agents.*
